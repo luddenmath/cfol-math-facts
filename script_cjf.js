@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-  const version = "1.0.8"; // Update this version number when you make changes
+  const version = "1.1.2"; // Update this version number when you make changes
 
   console.log("DOM fully loaded and parsed");
 
